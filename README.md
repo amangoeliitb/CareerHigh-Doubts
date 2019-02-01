@@ -1,5 +1,5 @@
 # CareerHigh-Doubts
-This Repositories contains the solutions of doubts asked by user on [CareerHigh](www.careerhigh.in).
+This Repositories contains the solutions of doubts asked by users on [CareerHigh](www.careerhigh.in).
 
 If you are a Tier 2 or 3 college student who wants to become a Tier 1 skill student, we have created just the right platform for you - CareerHigh. 
 
