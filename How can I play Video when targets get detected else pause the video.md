@@ -1,3 +1,9 @@
+
+# How can I play Video when targets get detected else pause the Video
+
+It was asked on [AR tutorial series week 1](https://careerhigh.in/blog/20/) by Shubhendra Singh. If you havent checked out [AR tutorial series](https://careerhigh.in/blog/18/), go check it out.
+#vuforia #AR #unity
+<hr>
 First untick the "Play on Awake" of your videoPlayer, Because of this, video starts playing when your apps starts.
 So Now we have have to configure
 `DefaultTrackableEventHandler` (you will find it in inspector window of image target) file of your image target so that we control the Play or Pause your video according to our need,
