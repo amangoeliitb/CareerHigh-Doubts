@@ -38,3 +38,5 @@ else
 ```
 Save it.
 Now when you got inspector window of image target, you will see one new variable "Video Player" below `DefaultTrackableEventHandler`. Double click on it, and select "Quad"
+
+Now you video will start playing when target get detected else the Video will be paused.
